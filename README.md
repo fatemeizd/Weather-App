@@ -10,7 +10,8 @@ In this project we get weather information of a city with api key and show detai
 we need an account in openweathermap site, get a api key and linke of api call, also with get() method in requests library we recieve information in json file and use this for show every data.
 
 
-[Uploading weatherapp test.zip…]()
+[weatherapp test.zip](https://github.com/fatemeizd/Weather-App/files/10882901/weatherapp.test.zip)
+
 
 
 
